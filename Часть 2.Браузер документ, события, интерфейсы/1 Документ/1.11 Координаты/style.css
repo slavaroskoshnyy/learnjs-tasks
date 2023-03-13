@@ -1,0 +1,14 @@
+body{
+	height: 2000px;
+}
+.blockquote{
+	margin-top: 50px;
+	width: 400px;
+	height: 100px;
+}
+.note{
+	position: fixed;
+}
+.note2{
+	position: absolute;
+}
